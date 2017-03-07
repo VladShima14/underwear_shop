@@ -1,0 +1,44 @@
+.wrapper{
+	width: 100%;
+	padding-top: 200px;
+}
+
+footer{
+	margin-top: 0;
+}
+
+.item{
+	float: left;
+}
+
+.item.portrait{
+	width: 33.33333%;
+}
+
+.item.landscape{
+	width: 66.66666%;
+}
+
+.item img{
+	width: 100%;
+	display: block;
+}
+
+.lookbook_title{
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.wrapper h2{
+	text-transform: uppercase;
+	margin: 0;
+	font-size: 2em;
+}
+
+.wrapper h3{
+	margin: 5px 0 50px;
+	font-size: 1.5em;
+	font-style: italic;
+	font-weight: normal;
+}
